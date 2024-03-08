@@ -50,7 +50,7 @@ void BubbleSortArray() { // procedur untuk mengurutkan array dengan metode bubbl
 
 		cout << "\nPass" << pass - 1 << ": "; // number of pass
 		for (int k = 0; k < n; k++) {
-			cout << arr[k] << " ";  // Mneampilkan data pada number of pass
+			cout << arr[k] << " ";  // Menampilkan data pada number of pass
 		}
 		cout << endl;
 	} while (pass <= n - 1);  //step 5
